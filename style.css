@@ -88,6 +88,11 @@ input[type=text], input[type=email]{
 
 #message {
     height: 60px;
+    width: 100%;
+    padding: 10px 2px;
+    border: 1px solid hsl(169, 82%, 27%);
+    border-radius: 5px;
+    margin-top: 10px;
 }
 
 input[type=button]{
